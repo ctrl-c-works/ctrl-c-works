@@ -1,16 +1,55 @@
-## Hi there 👋
-
-<!--
-**ctrl-c-works/ctrl-c-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?logo=apachekafka&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00AEC7?style=flat&logo=sqlalchemy&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)](#)
+[![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat&logo=Yii&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white)](#)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white)](#)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+[![Cilium](https://img.shields.io/badge/Cilium-2F80ED?style=flat&logo=cilium&logoColor=white)](#)
+[![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)](#)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)](#)
+[![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)](#)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](#)
+[![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat&logo=falco&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](#)
+[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)](#)
+[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
+[![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=Hetzner&logoColor=white)](#)
+[![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat&logo=yandexcloud&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)](#)
+[![Jaeger](https://img.shields.io/badge/Jaeger-56CFE3?style=flat&logo=Jaeger&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white)](#)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)](#)
+[![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logo=VictoriaMetrics&logoColor=white)](#)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=OpenSearch&logoColor=white)](#)
+[![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat&logo=sphinx&logoColor=white)](#)
